@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;0,400;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+body{
+    font-size: 24px;
+    background-image: url(../img/фон1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.insta{
+    text-decoration: none;
+    color: black;
+}
+.wrapper{
+    width: 1300px;
+    margin: 0 auto;
+}
+.header{
+    font-family: "Roboto", без засечек;
+    семейство шрифтов: "Рубик Моно Один", без засечек;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 40px;
+}
+.logo{
+    width: 50%;
+}
+.nav-link{
+   
+    text-decoration: none;
+    margin-left: 29px;
+    color: #3b3b3b;
+}
+.nav-link:hover{
+    color: palevioletred;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.wrapper{
+    margin: 0 auto;
+    max-width: 1100px;
+    width: 100%;
+}
+}
+.header-content{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;   
+    margin-bottom: 100px;
+}
+}
+.link-logo:hover{
+    color: palevioletred;
+
+}
+}
+.nav-link{
+    font-family: 'Cormorant Infant', serif;
+    font-weight: 500;
+    color:black;
+    text-decoration: none;
+}
+
+  .about-img{
+      max-width: 370px;
+      min-height: 360px;
+      margin-left: -900px;
+  }
+  .text-info{
+      text-align: justify;
+      font-size: 20px;
+      margin-top: 40px;
+      
+  }
+  
+.section-wrapper
+{
+   width: 1180px;
+   text-align: center;
+   margin: 0 auto;
+   padding: 20px 20px;
+   height: auto;
+   justify-content: space-between;
+}
+
+.im{
+    width: 400px;
+    height: 450px;
+ }
+ 
+.about{
+    display: flex;
+    text-align:  justify;
+   
+ }
+ .in{
+     text-align: justify;
+     margin-right: 10px;
+     padding-left: 170px;
+    
+ }
+ .h1{
+     font-size: 40px;
+     color: #fe28a2;
+     padding-left: -700px;
+ }
+ .inff{
+   padding-bottom: 200px;
+
+    }
+    
+ .footer{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    min-height: 70px;
+    background-color: #cc9da5;
+}
+.flex-footer{
+   
+    justify-content: space-between;
+    text-align: center;
+}
+.copyright{
+    text-align: center;
+}
